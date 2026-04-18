@@ -1,18 +1,18 @@
 # Hoofdpagina
-### Algemene Plaatselijke Verordening Hengelo
+### Algemene Plaatselijke Verordening Prime
 </br>
 
 **Algemene definities:**<br>
-**Stad:**		    Hengelo<br>
+**Stad:**		    Prime<br>
 **Staff Team:**		Staff<br>
 **Hogerop:**		  Headstaff +<br>
 </br>
 
-Alle regels zijn van toepassing binnen Hengelo. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
+Alle regels zijn van toepassing binnen Prime. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
 </br>
 
 **Staff-zaken:**<br>
-Elk staff-lid is bevoegd staff-zaken te behandelen kijkend naar de regels van Hengelo. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.<br>
+Elk staff-lid is bevoegd staff-zaken te behandelen kijkend naar de regels van Prime. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.<br>
 </br>
 
 **Begrippen:**<br>
