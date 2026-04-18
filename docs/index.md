@@ -27,5 +27,5 @@ Buiten onze main discord hebben we ook een aantal andere discord servers, deze v
 
 | Discord | Discord Uitnodiging |
 |---|---|
-| HNG Main Discord | [Uitnodiging](https://discord.gg/UF3Re6mncT) |
-| HNG Support Discord | [Uitnodiging](https://discord.gg/wVPPXgzaGr) |
+| Prime Main Discord | [Uitnodiging](https://discord.gg/UF3Re6mncT) |
+| Prime Support Discord | [Uitnodiging](https://discord.gg/wVPPXgzaGr) |
